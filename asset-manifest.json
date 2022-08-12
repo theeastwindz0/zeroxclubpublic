@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zeroxclub/static/css/main.e6c13ad2.css",
+    "main.js": "/zeroxclub/static/js/main.221cfc4a.js",
+    "index.html": "/zeroxclub/index.html",
+    "main.e6c13ad2.css.map": "/zeroxclub/static/css/main.e6c13ad2.css.map",
+    "main.221cfc4a.js.map": "/zeroxclub/static/js/main.221cfc4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.221cfc4a.js"
+  ]
+}
